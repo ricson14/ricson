@@ -1,0 +1,2 @@
+# ricson
+my first repository
