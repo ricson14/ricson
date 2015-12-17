@@ -1,3 +1,6 @@
 [submodule "ricson"]
 	path = ricson
 	url = https://github.com/ricson14/ricson.git
+[submodule "ricson2"]
+	path = ricson2
+	url = https://github.com/ricson14/ricson2.git
