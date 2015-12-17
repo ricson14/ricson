@@ -1,0 +1,3 @@
+[submodule "ricson"]
+	path = ricson
+	url = https://github.com/ricson14/ricson.git
